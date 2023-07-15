@@ -1,5 +1,5 @@
 ## FutureReadyTalent-Project
-This is my final website project on child care .
+This is my final website based on child care .
 # website link:
 https://hemantchauhan02.github.io/FutureReadyTalent-Project/
 
