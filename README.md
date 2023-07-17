@@ -2,10 +2,17 @@
 
 # ABOUT :This is my final website based on Child-Care.
 
+
 Current Healthcare industry faces challenges related to Child-Care .Thus, there is a need to create a website which find suitable childcare provider, access to comprehensive information, booking and scheduling childcare services etc.
 
-#Note:
+We have created this website using html, css and javascript. This website consist of six pages i.e Home ,About (Description about our child care website i.e Best Equipments,Skilled Doctors, Supportive Staff ,High success rate)  , Services(we offer services like Decoding Infertility,helping mother nature,preparing for pregnancy) , Team(provided information about our team), Gallery(consist of demo pictures related to child care), Contact(for any issues related to bookings and healthcare)
+
+##Note:
 This "Child-Care" website is in the prototype stage only so, there is no course contents are uploaded.
+
+##Azure Services:
+1-Static Web Apps
+2-Azure Resource Manager
 
 # website link:
 https://hemantchauhan02.github.io/FutureReadyTalent-Project
