@@ -1,7 +1,11 @@
 ## FutureReadyTalent-Project
+
 # ABOUT :This is my final website based on Child-Care.
 
 Current Healthcare industry faces challenges related to Child-Care .Thus, there is a need to create a website which find suitable childcare provider, access to comprehensive information, booking and scheduling childcare services etc.
+
+#Note:
+This "Child-Care" website is in the prototype stage only so, there is no course contents are uploaded.
 
 # website link:
 https://hemantchauhan02.github.io/FutureReadyTalent-Project
@@ -9,7 +13,7 @@ https://hemantchauhan02.github.io/FutureReadyTalent-Project
 # azure link:
 https://ambitious-ground-0239d1810.3.azurestaticapps.net
 
-#Demo video link:
+# Demo video link:
 https://drive.google.com/file/d/1mVPuBmZkEzMnjRkXZE7qDMIi3Of-d5D1/view?usp=drivesdk
 
 
